@@ -1,0 +1,18 @@
+C:\Users\calem\source\repos\Cajero Automatico\Cajero Automatico\bin\Debug\Cajero Automatico.exe.config
+C:\Users\calem\source\repos\Cajero Automatico\Cajero Automatico\bin\Debug\Cajero Automatico.exe
+C:\Users\calem\source\repos\Cajero Automatico\Cajero Automatico\bin\Debug\Cajero Automatico.pdb
+C:\Users\calem\source\repos\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.csprojAssemblyReference.cache
+C:\Users\calem\source\repos\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero_Automatico.Form1.resources
+C:\Users\calem\source\repos\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero_Automatico.Properties.Resources.resources
+C:\Users\calem\source\repos\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.csproj.GenerateResource.cache
+C:\Users\calem\source\repos\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.exe
+C:\Users\calem\source\repos\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.pdb
+C:\Users\calem\OneDrive\Escritorio\Programación II\Cajero Automatico\Cajero Automatico\bin\Debug\Cajero Automatico.exe.config
+C:\Users\calem\OneDrive\Escritorio\Programación II\Cajero Automatico\Cajero Automatico\bin\Debug\Cajero Automatico.exe
+C:\Users\calem\OneDrive\Escritorio\Programación II\Cajero Automatico\Cajero Automatico\bin\Debug\Cajero Automatico.pdb
+C:\Users\calem\OneDrive\Escritorio\Programación II\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.csprojAssemblyReference.cache
+C:\Users\calem\OneDrive\Escritorio\Programación II\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero_Automatico.Form1.resources
+C:\Users\calem\OneDrive\Escritorio\Programación II\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero_Automatico.Properties.Resources.resources
+C:\Users\calem\OneDrive\Escritorio\Programación II\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.csproj.GenerateResource.cache
+C:\Users\calem\OneDrive\Escritorio\Programación II\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.exe
+C:\Users\calem\OneDrive\Escritorio\Programación II\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.pdb
